@@ -1,0 +1,195 @@
+
+header{
+    font-size: 50px;
+    color: rgb(255,255,255);
+    background-color: rgba(100, 0, 0, 0.5);
+    width:1000px;
+    height:500px;
+    padding:14px;
+    text-align: center;
+    margin:auto auto;
+}
+
+body{
+  width: 1024px;
+  background-color: rgb(255, 223, 164);
+}
+
+.catchcp{
+    font-size: 50px;
+    width: 400px;
+    background-color: rgba(0, 0, 0, 0.5);
+    padding:10px;
+    text-align: center;
+    margin:auto auto;
+}
+.catchtext{
+    font-size: 20px;
+    width:700px;
+    height:auto;
+    background-color: rgba(0, 100, 0, 0.5);
+    padding:10px;
+    text-align: center;
+    margin:auto auto;
+}
+
+
+.ivent{
+    font-size: 50px;
+    width: 400px;
+    background-color: rgba(0, 0, 0, 0.5);
+    padding:10px;
+    text-align: center;
+    margin:auto auto;
+}
+
+.iventcontainer {
+    display: flex;
+}
+.iventimg{
+    flex: 1;
+    padding: 20px;
+    text-align: center;
+}
+.iventcolumn {
+    flex: 1;
+    padding: 20px;
+    text-align: center;
+}
+
+.guidtitle{
+  font-size: 50px;
+  width: 400px;
+  background-color: rgba(0, 0, 0, 0.5);
+  padding:10px;
+  text-align: center;
+  margin:auto auto;
+}
+
+  
+.guid {
+  font-size: 50px;
+    width: 400px;
+    padding:10px;
+    text-align: center;
+    margin:auto auto;
+}
+  
+.guidbio {
+  font-size: 50px;
+  width: 400px;
+  text-align: center;
+  margin:auto auto;
+}
+
+.pricecontainer {
+  display: flex;
+}
+
+.priceimg{
+  flex: 1;
+  padding: 20px;
+  text-align: center;
+}
+.pricecolumn {
+  flex: 1;
+  padding: 20px;
+  text-align: center;
+}
+
+.pricetitle{
+  font-size: 50px;
+  width: 400px;
+  background-color: rgba(0, 0, 0, 0.5);
+  padding:10px;
+  text-align: center;
+  margin:auto auto;
+}
+  
+
+.staff{
+    font-size: 50px;
+    width: 400px;
+    background-color: rgba(0, 0, 0, 0.5);
+    padding:10px;
+    text-align: center;
+    margin:auto auto;
+}
+.staffcontainer {
+    display: flex;
+  }
+  
+  .profile {
+    flex: 1;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  img {
+    width: 100%;
+    max-width: 200px;
+    height: auto;
+    border-radius: 50%;
+  }
+  
+  h2 {
+    font-size: 24px;
+    margin-top: 10px;
+  }
+  
+  p {
+    font-size: 16px;
+    margin-top: 5px;
+  }
+  
+
+  .team{
+    font-size: 50px;
+    width: 400px;
+    background-color: rgba(0, 0, 0, 0.5);
+    padding:10px;
+    text-align: center;
+    margin:auto auto;
+}
+
+  .teamcontainer {
+    display: flex;
+  }
+  
+  .teamimg{
+    flex: 1;
+    padding: 20px;
+    text-align: center;
+  }
+  .teamcolumn {
+    flex: 1;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  
+  .container {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .row {
+    display: flex;
+    flex-wrap: nowrap;
+  }
+  
+  .column {
+    flex: 33.33%;
+    padding: 5px;
+    box-sizing: border-box;
+  }
+  
+  .column img {
+    flex: 1;
+    padding: 20px;
+    text-align: center;
+    width: 100%;
+    height: auto;
+  }
+  
+  
